@@ -41,7 +41,7 @@ It represents a **foundational AI skillset** for specialization.
 If you want to run it locally:
 
 ```bash
-git clone https://github.com/YOUR_NAME/YOUR_REPO_NAME.git
+git clone https://github.com/Danielit707/Flowers_classifier_ML.git
 cd YOUR_REPO_NAME
 pip install -r requirements.txt
 streamlit run app.py
