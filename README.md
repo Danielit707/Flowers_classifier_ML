@@ -4,7 +4,7 @@ This is a simple machine learning app that classifies flowers based on their fea
 
 ✅ Built with: Python, scikit-learn, Streamlit  
 🧠 Topic: Supervised Learning — Classification  
-🚀 [Live Demo on Hugging Face](https://dnlit707/iris_knn)
+🚀 [Live Demo on Hugging Face](https://huggingface.co/spaces/Dnlit707/iris_knn)
 
 ---
 
